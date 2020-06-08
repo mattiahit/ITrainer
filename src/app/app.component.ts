@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Question } from './shared/question.model';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ITrainer';
+
+  questionToShow: Question;
+
+  onCategoryClicked(technologyQuestion: Question){
+    //console.log(technologyQuestion.questionText);
+    this.questionToShow = technologyQuestion;
+  }
+
 }

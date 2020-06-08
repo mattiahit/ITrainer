@@ -1,0 +1,92 @@
+[
+    {
+        "technologyType":"JAVA",
+        "questionText":"Jaka jest różnica pomiędzy Comparator a Comparable?",
+        "estimatedTime":300000
+    },
+    {
+        "technologyType":"JAVA",
+        "questionText":"Jakie znasz rodzaje kolekcji w JAVA?",
+        "estimatedTime":300000
+    },
+    {
+        "technologyType":"JAVA",
+        "questionText":"Czym jest OPTIONAL?",
+        "estimatedTime":300000
+    },
+    {
+        "technologyType":"JAVA",
+        "questionText":"Jaka jest różnica pomiędzy Comparator a Comparable?",
+        "estimatedTime":300000
+    },
+    {
+        "technologyType":"JAVA",
+        "questionText":"Czym jest Functional Interface?",
+        "estimatedTime":300000
+    },
+    {
+        "technologyType":"JAVA",
+        "questionText":"Dane są 2 posortowane tablice. Napisz program który zwróci jedną posortowaną tablicę",
+        "estimatedTime":900000
+    },
+    {
+        "technologyType":"ANGULAR",
+        "questionText":"Jakie są sposoby komunikacji pomiędzy komponentami?",
+        "estimatedTime":300000
+    },
+    {
+        "technologyType":"ANGULAR",
+        "questionText":"Jakie są rodzaje dyrektyw w Angular?",
+        "estimatedTime":150000
+    },
+    {
+        "technologyType":"KOTLIN",
+        "questionText":"Czym jest Data Class?",
+        "estimatedTime":300000
+    },
+    {
+        "technologyType":"KOTLIN",
+        "questionText":"Jaka jest różnica pomiędzy musableList a np. ArrayList?",
+        "estimatedTime":300000
+    },
+    {
+        "technologyType":"SPRING",
+        "questionText":"Jakie są rodzaje wstrzykiwania zależności w SPRING?",
+        "estimatedTime":300000
+    },
+    {
+        "technologyType":"SPRING",
+        "questionText":"Jakie są możliwe zasięgi widoczności dla BEAN?",
+        "estimatedTime":300000
+    },
+    {
+        "technologyType":"HIBERNATE",
+        "questionText":"Jaka jest różnica pomiędzy LAZY a EAGER?",
+        "estimatedTime":300000
+    },
+    {
+        "technologyType":"HIBERNATE",
+        "questionText":"Jakie są poziomy Cache'owania w Hibernate?",
+        "estimatedTime":300000
+    },
+    {
+        "technologyType":"ANDROID",
+        "questionText":"Jakie są cykle życia aktywności?",
+        "estimatedTime":300000
+    },
+    {
+        "technologyType":"ANDROID",
+        "questionText":"Jakie są rodzaje intencji (Intent)?",
+        "estimatedTime":300000
+    },
+    {
+        "technologyType":"JUNIT",
+        "questionText":"Czym jest Mock?",
+        "estimatedTime":300000
+    },
+    {
+        "technologyType":"JUNIT",
+        "questionText":"Czym jest Spy?",
+        "estimatedTime":300000
+    }
+]
