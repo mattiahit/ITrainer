@@ -11,13 +11,15 @@ export class TechnologyQuestionComponent implements OnInit, OnChanges {
   @Input()
   questionToShow: Question;
   questionText: string = "";
+  questionTimeDelay: number;
 
   constructor() { }
 
   ngOnChanges():void {
-    if(this.questionToShow)
+    if(this.questionToShow){
       this.questionText = this.questionToShow.questionText;
-    else this.questionText = "Kliknij w kategorię i wylosuj pytanie"
+      this.questionTimeDelay = this.questionToShow.estimatedTime;
+    }else this.questionText = "Kliknij w kategorię i wylosuj pytanie"
   }
 
   ngOnInit(): void {

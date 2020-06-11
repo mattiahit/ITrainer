@@ -7,6 +7,7 @@ import { HeaderComponent } from './header/header.component';
 import { TechnologiesListComponent } from './technologies-list/technologies-list.component';
 import { TechnologyComponent } from './technology/technology.component';
 import { TechnologyQuestionComponent } from './technology-question/technology-question.component';
+import { TimerComponent } from './timer/timer.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { TechnologyQuestionComponent } from './technology-question/technology-qu
     HeaderComponent,
     TechnologiesListComponent,
     TechnologyComponent,
-    TechnologyQuestionComponent
+    TechnologyQuestionComponent,
+    TimerComponent
   ],
   imports: [
     BrowserModule,
